@@ -282,7 +282,6 @@ nav .fas{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background: size 50px;
         background-image: url(images/ThabeloLorraine.jpg)
         backgroung-size:cover;
     }
