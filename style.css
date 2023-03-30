@@ -27,6 +27,7 @@ body{
     background-attachment: fixed;
     background-size: 100%;
     background-position: top;
+    backgroung-size: cover;
 }
 .container{
     padding: 10px 10%;
@@ -282,6 +283,7 @@ nav .fas{
 @media only screen and (max-width: 600px){
     #header{
         background-image: url(images/ThabeloLorraine.jpg)
+        backgroung-size: cover;
     }
     .header-text h1{
         font-size: 30px;
