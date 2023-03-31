@@ -284,8 +284,8 @@ nav .fas{
 @media only screen and (max-width: 600px){
     #header{
         background-image: url(images/ThabeloLorraine.jpg)
-        background: size 50px;
-        background-repeat: space;
+        background: size 100px;
+        background-repeat: no-repeat;
     }
     .header-text h1{
         font-size: 30px;
