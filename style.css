@@ -28,6 +28,7 @@ body{
     background-size: 100%;
     background-position: top;
     backgroung-size: cover;
+    background-repeat: no-repeat;
 }
 .container{
     padding: 10px 10%;
@@ -284,7 +285,7 @@ nav .fas{
     #header{
         background-image: url(images/ThabeloLorraine.jpg)
         backgroung-size:cover;
-        background-repeat: initial;
+        background-repeat: space;
     }
     .header-text h1{
         font-size: 30px;
