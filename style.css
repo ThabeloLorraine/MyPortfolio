@@ -284,6 +284,7 @@ nav .fas{
     #header{
         background-image: url(images/ThabeloLorraine.jpg)
         backgroung-size:cover;
+        background-repeat: no-repeat;
     }
     .header-text h1{
         font-size: 30px;
